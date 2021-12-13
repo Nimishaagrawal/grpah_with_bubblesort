@@ -1,0 +1,9 @@
+import React from 'react';
+function Header(){
+  return (
+    <div>
+      <p className='header'>BubbleSort</p>
+      <div id="array"></div>
+      </div>
+  )
+}export default Header;
